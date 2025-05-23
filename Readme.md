@@ -7,7 +7,7 @@ This torque provides insight into the tire-road friction characteristics, especi
 low-speed or stationary conditions. The tire scrub torque of a stationary vehicle under steering excitation can be effectively modeled using the tire brush model.
 
 ![Brush Groups evelaution](Brush_groups_evaluation.gif)
-Video 1: Evaluation of tire contact patch brush group due to the friction (i.e. Sliding and Adhesive friction) and non-linear stick slip behaviour
+Video 1: Dynamic evaluation of tire contact patch brush groups, segmented by sliding and adhesive friction, illustrating nonlinearities such as stick–slip transitions and hysteretic effects introduced by steering linkage dynamics.
 
 ## Tire Brush Model
 
