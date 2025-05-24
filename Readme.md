@@ -14,7 +14,7 @@ Video 1: Dynamic evaluation of tire contact patch brush groups, segmented by sli
 In the tire brush model, the tire tread is represented by numerous flexible bristles, i.e., brushes, that are attached to the tire belt. 
 These bristles simulate the way the tread interacts with the road. The tire carcass provides structural support to both 
 the tread and the bristles. In the most conventional brush models, the carcass is assumed to be rigid, simplifying the overall analysis. 
-The interaction between the flexibility of these components determines the tires overall elasticity. \cite{bib:Pacejkabook}
+The interaction between the flexibility of these components determines the tires overall elasticity. [1]
 
 When a vehicle is kept stationary and the tire is turned, it induces steering force $F_y$ at the
 leading edge and the counteracting force $-F_y$ at the trailing edge in the opposite direction. The brushes in the contact
@@ -25,7 +25,7 @@ this deformation progresses further into the contact patch, moving from the edge
 of the brushes increases, and eventually, the edges may reach its friction limit and begin to slide. This sliding then progresses 
 through the contact patch as the deformation exceeds the available friction, causing parts of the contact patch to enter a sliding state and 
 reducing the tires' ability to generate lateral force effectively. This leads to two separate regions of the contact patch, sliding and the adhesion region, as shown in the *Figure 1*. 
-<!-- (\cite{bib:Pacejkabook,bib:Beal2020Friction}) -->
+<!-- ([1,2]) -->
 
 ![brush model](bruh_under_steering.png)
 Figure 1: A single row of brushes deflection under steering force $F_y$
