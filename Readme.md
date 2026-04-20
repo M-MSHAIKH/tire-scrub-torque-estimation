@@ -1,5 +1,7 @@
 # Tire Scrub Torque Estimation Based on a Tire Brush Model
 
+The aim of this repository is to develop an algorithm for estimating the tire scrub torque. 
+
 Tire scrub torque is the torque generated at the tire contact patch due to lateral or 
 longitudinal slip when the tire interacts with the road surface. It arises from the 
 deformation and frictional forces within the contact patch as the tire resists motion. The contact patch is the area of the tire which interact with the road surface.
